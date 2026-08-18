@@ -1,0 +1,10 @@
+PRACTICAL-2
+
+Problem-1
+•	I used an incorrect recursive condition, so the search did not give the expected result. I corrected the condition. 
+•	I forgot to give  the for loop in the starting where I have to give the many number of plates and that is why I can’t add more than one number plate which was solved by the for loop.
+
+Problem-2
+•	I used an incorrect middle-index calculation, which was giving wrong search result. I corrected the calculation. 
+•	I forgot to update the low and high values correctly, so the search did not move toward the target. I corrected the conditions. 
+
