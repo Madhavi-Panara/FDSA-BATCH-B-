@@ -1,0 +1,9 @@
+PRACTICAL-3
+
+Problem-1
+•	I have given the invalid loop condition for the bubble shot and didn’t get the expected output and changed the loop statement accordingly.
+•	I have not written the cout statement after the logic which was not printing the sorted output
+
+Porblem-2
+•	I haven’t given the initial values to the low and mid because of that the values were not adding and then I have given the initial 0 and then it worked.
+
