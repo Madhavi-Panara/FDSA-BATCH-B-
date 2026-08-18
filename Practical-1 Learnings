@@ -1,0 +1,15 @@
+PRACTICAL-1
+
+Problem-1:
+•	I used a loop that performed the rotation h times, which was inefficient for a very large value of h. I changed it to use h % n. 
+•	I initially handled the rotation count incorrectly, which gave the wrong final order. I corrected the calculation.
+
+Problem-2:
+•	I initially used nested loops, which made the program scan the borrowing records multiple times and was inefficient for large data. 
+•	I had difficulty handling duplicate book IDs correctly, so I corrected the counting logic to identify books borrowed more than once.
+
+Problem-3:
+•	I initially did not handle spaces correctly while reading the sentence, so the words were not separated properly. I corrected the input method. 
+•	I did not update the longest word correctly when comparing lengths, so I corrected the condition.
+i did not added the space reading at the end of the word that is why the word was not reading the space and it was printing the whole sentence.
+
