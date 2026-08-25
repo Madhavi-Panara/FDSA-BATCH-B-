@@ -1,0 +1,11 @@
+Problems Faced:
+
+Problem-1:
+•	I faced difficulty in handling the position value when inserting a patient at a specific position. 
+•	There was an issue in shifting the existing queue elements correctly before insertion.
+
+Problem-2:
+•	I faced difficulty in finding and deleting the required patient token from the queue. 
+•	There was  an issue in shifting the remaining elements correctly after deletion. 
+•	And faced difficulty in printing the queue in reverse order using the correct indexes.
+
