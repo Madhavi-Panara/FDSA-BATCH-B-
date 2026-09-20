@@ -1,0 +1,11 @@
+Practical-1
+
+Problem 1:(Problem Faced)
+
+I faced difficulty in updating both next and prev links while inserting a song after a specific song.
+I faced difficulty in handling the case when the given song was not found in the playlist.
+
+Problem 2:(Problem Faced)
+
+I faced difficulty in updating the links correctly when a student leaves, especially for the first or last student.
+I faced difficulty in maintaining the circular connection when only one student remained in the circle.
