@@ -1,1 +1,11 @@
+Practical-7
 
+Problem Faced:
+
+Problem 1: Fixed-Capacity Queue Using Array
+I faced difficulty managing the front and rear positions while inserting and serving tokens.
+I faced difficulty handling queue overflow and reusing empty spaces after serving tokens.
+
+Problem 2: Patient Queue Using Linked List
+I faced difficulty inserting new patients at the rear and removing patients from the front.
+I faced difficulty handling the empty queue condition when the doctor tried to attend a patient but no patients were waiting.
