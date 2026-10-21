@@ -1,1 +1,15 @@
+Practical-10
 
+Problems Faced
+
+Problem 1: Linear Probing
+I faced difficulty finding the next available slot when a collision occurred.
+I faced difficulty handling situations where the hash table became full or multiple vehicles mapped to the same slot.
+
+Problem 2: Chaining
+I faced difficulty storing multiple book codes in the same slot using a linked list or chain.
+I faced difficulty inserting new book codes into the correct chain when multiple codes mapped to the same shelf.
+
+Problem 3: Double Hashing
+I faced difficulty calculating the jump size using the second hash function when a collision occurred.
+I faced difficulty finding an empty slot using both hash functions and avoiding repeated positions in the table.
