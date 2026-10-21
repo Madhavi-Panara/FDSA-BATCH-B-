@@ -1,1 +1,11 @@
+Practical-9
 
+Problems Faced
+
+Problem 1: Graph Traversal Using DFS and BFS
+I faced difficulty visiting all connected nodes in the correct order using DFS and BFS.
+I faced difficulty managing the visited array and understanding the use of a stack in DFS and a queue in BFS.
+
+Problem 2: Cycle Detection in an Undirected Graph
+I faced difficulty checking whether a cycle existed in the graph.
+I faced difficulty identifying the parent node correctly so that the edge back to the parent was not mistakenly treated as a cycle.
