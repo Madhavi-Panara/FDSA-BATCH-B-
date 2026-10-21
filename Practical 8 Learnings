@@ -1,1 +1,11 @@
+Practical 8
 
+Problems Faced
+
+Problem 1: Binary Tree Traversals 
+I faced difficulty implementing inorder, preorder, postorder, and level-order traversals correctly.
+I faced difficulty using a queue for level-order traversal while the other traversals used recursion.
+
+Problem 2: Binary Search Tree (BST) Insertion
+I faced difficulty inserting each new value at the correct position by comparing it with the existing nodes.
+I faced difficulty checking whether the inorder traversal displayed all values in sorted order.
