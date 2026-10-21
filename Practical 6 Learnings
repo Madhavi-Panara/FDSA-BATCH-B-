@@ -1,1 +1,15 @@
+Practical-6
 
+Problem Faced:
+
+Problem 1: Fixed-Capacity Stack Using Array 
+I faced difficulty managing the top variable while performing push and pop operations.
+I faced difficulty handling stack overflow when the stack was full and stack underflow when it was empty.
+
+Problem 2: Browser History Using Linked List
+I faced difficulty adding new pages and removing the latest page while maintaining the stack structure.
+I faced difficulty handling the back operation when no previous page was available.
+
+Problem 3: Infix to Postfix Conversion
+I faced difficulty handling operator precedence and placing operators in the correct order.
+I faced difficulty managing opening and closing brackets while converting an infix expression into postfix form.
